@@ -1,0 +1,21 @@
+﻿Build started 17/04/2019 16:00:37.
+     1>Project "D:\iGraphicsUltimate\iGraphics Project\iGraphics Project\Red_Ball_Gameaaaa\Red_Ball_Game\Red_Ball_Game.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Red_Ball_Game.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt iMain.cpp
+         iMain.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\iGraphicsUltimate\iGraphics Project\iGraphics Project\Red_Ball_Gameaaaa\Debug\Red_Ball_Game.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Red_Ball_Game.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\iGraphicsUltimate\iGraphics Project\iGraphics Project\Red_Ball_Gameaaaa\Debug\Red_Ball_Game.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\iGraphicsUltimate\iGraphics Project\iGraphics Project\Red_Ball_Gameaaaa\Debug\Red_Ball_Game.lib" /MACHINE:X86 Debug\iMain.obj
+         LINK : D:\iGraphicsUltimate\iGraphics Project\iGraphics Project\Red_Ball_Gameaaaa\Debug\Red_Ball_Game.exe not found or not built by the last incremental link; performing full link
+         Red_Ball_Game.vcxproj -> D:\iGraphicsUltimate\iGraphics Project\iGraphics Project\Red_Ball_Gameaaaa\Debug\Red_Ball_Game.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\iGraphicsUltimate\iGraphics Project\iGraphics Project\Red_Ball_Gameaaaa\Debug\Red_Ball_Game.exe;#1" /manifest Debug\Red_Ball_Game.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\Red_Ball_Game.unsuccessfulbuild".
+         Touching "Debug\Red_Ball_Game.lastbuildstate".
+     1>Done Building Project "D:\iGraphicsUltimate\iGraphics Project\iGraphics Project\Red_Ball_Gameaaaa\Red_Ball_Game\Red_Ball_Game.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.42
